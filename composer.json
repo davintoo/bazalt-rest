@@ -12,6 +12,9 @@
             "Bazalt\\Rest": "src/"
         }
     },
+    "repositories": [
+       { "type": "git", "url": "https://github.com/davintoo/tonic.git" },
+    ],
     "require": {
         "php": ">=7.0.0",
         "analog/analog": "dev-master",
