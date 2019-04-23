@@ -18,7 +18,7 @@
     "require": {
         "php": ">=7.0.0",
         "analog/analog": "dev-master",
-        "davintoo/tonic": "dev-3.2-fix"
+        "davintoo/tonic": "dev-master"
     },
     "require-dev": {
     },
