@@ -13,7 +13,7 @@
         }
     },
     "repositories": [
-       { "type": "git", "url": "https://github.com/davintoo/tonic.git" },
+       { "type": "git", "url": "https://github.com/davintoo/tonic.git" }
     ],
     "require": {
         "php": ">=7.0.0",
